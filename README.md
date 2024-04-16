@@ -21,6 +21,7 @@ GPT元宇宙优势：1:1还原ChatGPT，无需🪜，账号独立，对话数据
 - **最近使用的 GPTs：** 方便快速访问。
 - **GPTs 商店：** 搜索社区制作的 GPTs。
 - **提问记录：** 管理你的提问记录，包括重命名、归档和删除。
+
 ![左侧功能](https://doc.blueshirtai.com/~gitbook/image?url=https:%2F%2F3289779518-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaNyjUf6fLHNYQkGlpUJa%252Fuploads%252FYQNJ2RrYXh8kZYtLtp7W%252Fimage.png%3Falt=media%26token=ecf25cda-11ad-4a4c-90b6-8cff7d7d3dbf&width=400&dpr=2&quality=100&sign=71b49253e7ded30672e99f1c6d95d0fee04fc5f37e5c1b98e4170b1f2de55dff)
 
 ### 设置
